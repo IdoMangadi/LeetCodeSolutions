@@ -1,7 +1,7 @@
 public class Practice{
 
-  // function to find the maximum value in a CVS column
-  public static int CVSMax(String S, String T) { 
+	// function to find the maximum value in a CVS column
+	public static int CVSMax(String S, String T) { 
 		
 		int max = Integer.MIN_VALUE;
 		if(S == null || T == null) return max;
@@ -24,4 +24,5 @@ public class Practice{
 		}
 		
 		return max;
+  	}
 }
