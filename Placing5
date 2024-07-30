@@ -37,4 +37,11 @@ public class Practice1 {
 	    return Integer.parseInt(res.toString());
 	    
 	}
+
+	public static void main(String[] args) {
+		System.out.println(Solution(268));    // Expected output: 5268
+		System.out.println(Solution(670));    // Expected output: 6750
+		System.out.println(Solution(0));      // Expected output: 50
+		System.out.println(Solution(-999));   // Expected output: -5999
+	}
 }
