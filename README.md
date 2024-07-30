@@ -1,2 +1,2 @@
 # LeetCodeSolutions
-LeetCode Solutions and other solution for similar types of exercises.
+LeetCode Solutions and other solutions for similar types of exercises.
